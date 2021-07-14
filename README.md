@@ -5,3 +5,5 @@ Meu nome é Enzo tenho 15 anos estou no segundo ano do ensino médio e é meu pr
 ### Fundamento de TI
 [Exemplo for](fundamentosTi/exemplos/atvd6.sh)
 
+### Logica computacional
+[Exemplo java](LogicaComputacional/codigos.java)
