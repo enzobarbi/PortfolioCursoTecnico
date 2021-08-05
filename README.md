@@ -7,3 +7,6 @@ Meu nome é Enzo tenho 15 anos estou no segundo ano do ensino médio e é meu pr
 
 ### Logica computacional
 [Exemplo java](LogicaComputacional/codigos.java)
+
+### Revisão
+[Permissionamento](fundamentosTi/exemplos/atividade_revisao)
