@@ -10,3 +10,6 @@ Meu nome é Enzo tenho 15 anos estou no segundo ano do ensino médio e é meu pr
 
 ### Revisão
 [Permissionamento](fundamentosTi/exemplos/atividade_revisao)
+
+### Avaliaçao Pratica 
+[codigos](fundamentosTi/avaliaçao_pratica/)
