@@ -3,7 +3,7 @@
 ## Enzo Fagundes Barbi
 - _Meu nome é Enzo tenho 16 anos estou no segundo ano do ensino médio e é meu primeiro ano fazendo um curso técnico na escola S, pretendo me formar no curso para adquirir experiência nesse ramo de trabalho e talvez conseguir algum estágio ou emprego nessa área de atuação. Recentemente entrei para o time de basquete da OMDA tubarões que é muito importante para mim ter uma rotina. Gosto de manter meus códigos e tudo bem organizado para sempre ter tudo correto._
 
-# Idiomas 
+## Idiomas 
 - Inglês: nivel intermediário
 
 ## _Fundamento de TI_
