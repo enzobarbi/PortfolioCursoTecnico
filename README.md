@@ -18,4 +18,7 @@
 
 [link](LogicaComputacional/codigo.java2) _caixa de diálogo com uso de int e JOptionPane_
 
-[link](LogicaComputacinal/codigo.java3) _codigo de looping infinito_
+[link](LogicaComputacinal/codigo.java3) _código de looping infinito_
+
+## _logica de programação_
+[link](Lógica de Programação/PetShop/PetShop/) 
