@@ -21,4 +21,4 @@
 [link](LogicaComputacinal/codigo.java3) _código de looping infinito_
 
 ## _logica de programação_
-[link](Lógica de Programação/PetShop/PetShop/) 
+[link](LogicaProgramacao/PetShop/PetShop/) 
