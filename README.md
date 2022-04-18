@@ -24,10 +24,10 @@
 [link](LogicaProgramacao/PetShop/PetShop/) _código pra cadastro de animais em petshop_
 
 ## _Design_
-- [Design aplicativo de basquete](trabalho_figma.pdf)
+- [Design aplicativo de basquete](trabalho_figma.pdf) _ aplicativo no figma com o tema de time de basquete_
 
 ## _Banco de Dados_
-- [aprendendo funções](banco_de_dados/funcoes.sql)
+- [aprendendo funções](banco_de_dados/funcoes.sql) _funções criadas em SQL_
 
 ## _Criação de Aplicativos_
-- [criando calculadora](Geometria)
+- [criando calculadora](Geometria) _calculadora feita no app studio utilizando JAVA_
