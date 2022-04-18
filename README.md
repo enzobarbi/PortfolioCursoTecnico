@@ -30,4 +30,4 @@
 - [aprendendo funções](PortfolioCursoTecnico/banco_de_dados/)
 
 ## _Criação de Aplicativos_
-- [criando calculadora]
+- [criando calculadora](PortfolioCursoTecnico/Geometria/)
