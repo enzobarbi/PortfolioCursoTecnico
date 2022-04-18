@@ -7,11 +7,11 @@
 - Inglês: nivel intermediário
 
 ## _Fundamento de TI_
-[Exemplo for](fundamentosTi/exemplos/atvd6.sh)
+- [Exemplo for](fundamentosTi/exemplos/atvd6.sh)
 
-[Exemplo if](fundamentosTi/exemplos/atvd2.sh)
+- [Exemplo if](fundamentosTi/exemplos/atvd2.sh)
 
-[Exemplo while](fundamentosTi/exemplos/atvd2.sh)
+- [Exemplo while](fundamentosTi/exemplos/atvd2.sh)
 
 ## _Logica computacional_
 [link](LogicaComputacional/codigos.java) _caixa de diálogo com uso de for , if while_
@@ -22,3 +22,6 @@
 
 ## _logica de programação_
 [link](LogicaProgramacao/PetShop/PetShop/) _código pra cadastro de animais em petshop_
+
+## _Design_
+- [Design aplicativo de basquete](trabalho_figma.pdf)
