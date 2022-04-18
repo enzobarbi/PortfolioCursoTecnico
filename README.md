@@ -27,7 +27,7 @@
 - [Design aplicativo de basquete](trabalho_figma.pdf)
 
 ## _Banco de Dados_
-- [aprendendo funções](funcoes.sql)
+- [aprendendo funções](banco_de_dados/funcoes.sql)
 
 ## _Criação de Aplicativos_
 - [criando calculadora](Geometria)
