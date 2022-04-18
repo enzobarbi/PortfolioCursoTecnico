@@ -27,7 +27,7 @@
 - [Design aplicativo de basquete](trabalho_figma.pdf)
 
 ## _Banco de Dados_
-- [aprendendo funções](PortfolioCursoTecnico/banco_de_dados/)
+- [aprendendo funções](PortfolioCursoTecnico/banco_de_dados/funcoes)
 
 ## _Criação de Aplicativos_
-- [criando calculadora](PortfolioCursoTecnico/Geometria/)
+- [criando calculadora](Geometria)
