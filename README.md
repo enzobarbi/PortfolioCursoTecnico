@@ -28,3 +28,6 @@
 
 ## _Banco de Dados_
 - [aprendendo funções](PortfolioCursoTecnico/banco_de_dados/)
+
+## _Criação de Aplicativos_
+- [criando calculadora]
